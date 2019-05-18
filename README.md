@@ -59,5 +59,6 @@ CocoaPod ver 1.6.0
 
 ## イメージ
 ※ただのイメージです。いつか反映します。汗
+
 ![写真リスト](https://github.com/yoko-yan/HotSpotBySwift/blob/images/iPhone%20X-XS%20%E2%80%93%201.png)
 ![地図](https://github.com/yoko-yan/HotSpotBySwift/blob/images/iPhone%20X-XS%20%E2%80%93%202.png)
