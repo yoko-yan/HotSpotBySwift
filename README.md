@@ -38,6 +38,7 @@ CoreMotionで傾き検知によって、画面を切り替え
 いろいろと柔軟に開発したかったので、AWSのLambdaと、API Gateway で開発し、
 そこを経由してFlickrのAPIを叩き、
 アプリ側は、そこから写真のURLを間接的に取得
+https://github.com/yoko-yan/lambda-go-flickr
 
 ## 使用した技術
 CoreLocation
