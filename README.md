@@ -40,6 +40,8 @@ CoreMotionで傾き検知によって、画面を切り替え
 アプリ側は、そこから写真のURLを間接的に取得
 https://github.com/yoko-yan/lambda-go-flickr
 
+
+
 ## 使用した技術
 CoreLocation
 CoreMotion
@@ -54,3 +56,8 @@ Kingfisher
 Xcode ver 10.1
 Swift ver 4.2
 CocoaPod ver 1.6.0
+
+## イメージ
+※ただのイメージです。いつか反映します。汗
+![写真リスト](https://github.com/yoko-yan/HotSpotBySwift/blob/images/iPhone%20X-XS%20%E2%80%93%201.png)
+![地図](https://github.com/yoko-yan/HotSpotBySwift/blob/images/iPhone%20X-XS%20%E2%80%93%202.png)
